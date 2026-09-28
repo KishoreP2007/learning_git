@@ -6,3 +6,10 @@ h1 {
 title {
     color: black;
 }
+
+button {
+    color: white;
+    background-color: rgb(141, 141, 228);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
